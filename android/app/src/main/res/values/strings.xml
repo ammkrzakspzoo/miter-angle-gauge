@@ -1,0 +1,142 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Miter Angle Gauge</string>
+
+    <string name="splash_title">MITER ANGLE</string>
+    <string name="splash_title_2">GAUGE</string>
+    <string name="splash_subtitle">PRECISION CUT CALCULATOR</string>
+    <string name="splash_status">CALIBRATING...</string>
+    <string name="splash_footer">OFFLINE · PRIVATE</string>
+
+    <string name="menu_title">MITER ANGLE GAUGE</string>
+    <string name="menu_hint">TIGHT JOINTS ON THE FIRST CUT</string>
+    <string name="mode_polygon">POLYGON FRAME</string>
+    <string name="mode_polygon_caption">FRAMES · BOXES · N SIDES</string>
+    <string name="mode_ring">SEGMENT RING</string>
+    <string name="mode_corner">CORNER FIT</string>
+    <string name="tile_last_cut">LAST CUT</string>
+    <string name="tile_saved">SAVED</string>
+    <string name="tile_no_cuts">NO CUTS YET</string>
+    <string name="badge_tilt">TILT SENSOR</string>
+
+    <string name="cta_start">START SETUP</string>
+    <string name="cta_compute">COMPUTE CUT</string>
+    <string name="cta_again">COMPUTE AGAIN</string>
+    <string name="cta_menu">MENU</string>
+    <string name="cta_save">SAVE SETUP</string>
+    <string name="cta_saved">SAVED ✓</string>
+    <string name="cta_gap_check">GAP CHECK</string>
+    <string name="cta_gap_corrector">GAP CORRECTOR</string>
+    <string name="cta_use_angle">USE THIS ANGLE</string>
+    <string name="cta_apply">APPLY TO CUT</string>
+    <string name="cta_capture_a">CAPTURE A</string>
+    <string name="cta_capture_b">CAPTURE B</string>
+    <string name="cta_reset">RESET</string>
+
+    <string name="label_sides">SIDES</string>
+    <string name="label_segments">SEGMENTS</string>
+    <string name="label_inside_width">INSIDE WIDTH</string>
+    <string name="label_outside_width">OUTSIDE WIDTH</string>
+    <string name="label_ring_diameter">RING DIAMETER</string>
+    <string name="label_stock_width">STOCK WIDTH</string>
+    <string name="label_stock_thickness">STOCK THICKNESS</string>
+    <string name="label_spring_angle">SPRING ANGLE</string>
+    <string name="label_corner_angle">CORNER ANGLE</string>
+    <string name="label_crown">CROWN MOULDING</string>
+    <string name="label_inside">INSIDE</string>
+    <string name="label_outside">OUTSIDE</string>
+    <string name="label_saw">SAW</string>
+    <string name="label_part">PART</string>
+    <string name="label_stock">STOCK</string>
+    <string name="label_miter">MITER</string>
+    <string name="label_bevel">BEVEL</string>
+    <string name="label_joint_angle">JOINT ANGLE</string>
+    <string name="label_parts">PARTS</string>
+    <string name="label_kerf">KERF ALLOWANCE</string>
+    <string name="label_shape">SHAPE</string>
+    <string name="label_part_length">PART LENGTH</string>
+    <string name="label_total_stock">TOTAL STOCK</string>
+    <string name="label_degrees">DEGREES</string>
+
+    <string name="cut_card_title">CUT CARD</string>
+    <string name="cut_card_caption">SAW MITER SETTING</string>
+    <string name="cut_card_hint">TEST-CUT FIRST · CHECK THE GAP</string>
+
+    <string name="corner_title">CORNER MEASURE</string>
+    <string name="corner_hold_a">HOLD ON WALL A</string>
+    <string name="corner_hold_b">HOLD ON WALL B</string>
+    <string name="corner_ready">CORNER CAPTURED</string>
+    <string name="corner_out_of_square">OUT OF SQUARE</string>
+    <string name="corner_no_sensor">NO TILT SENSOR · ENTER ANGLE</string>
+    <string name="corner_wall_a">WALL A</string>
+    <string name="corner_wall_b">WALL B</string>
+
+    <string name="gap_title">GAP CORRECTOR</string>
+    <string name="gap_width">GAP WIDTH</string>
+    <string name="gap_joint_length">JOINT LENGTH</string>
+    <string name="gap_at_outside">GAP AT OUTSIDE</string>
+    <string name="gap_at_inside">GAP AT INSIDE</string>
+    <string name="gap_decrease">DECREASE MITER</string>
+    <string name="gap_increase">INCREASE MITER</string>
+    <string name="gap_adjust">ADJUST SAW BY</string>
+    <string name="gap_new_setting">NEW SETTING</string>
+    <string name="gap_hint">MEASURE THE GAP ON A TEST JOINT</string>
+    <string name="gap_no_source">NO CUT CARD TO APPLY TO</string>
+
+    <string name="saved_title">SAVED SETUPS</string>
+    <string name="saved_empty">NO SAVED SETUPS</string>
+    <string name="saved_empty_hint">SETUPS YOU SAVE FROM A CUT CARD APPEAR HERE</string>
+
+    <string name="settings_title">GAUGE SETTINGS</string>
+    <string name="settings_units">UNITS</string>
+    <string name="settings_decimals">DECIMALS</string>
+    <string name="settings_bright">BRIGHT MODE</string>
+    <string name="settings_haptics">HAPTICS</string>
+    <string name="settings_calibration">SENSOR CALIBRATION</string>
+    <string name="settings_calibrate">CALIBRATE ZERO</string>
+    <string name="settings_reset">RESET CALIBRATION</string>
+    <string name="settings_footer">OFFLINE · NO ACCOUNTS · NO TRACKING</string>
+
+    <string name="unit_mm">MM</string>
+    <string name="unit_inch">INCH</string>
+    <string name="unit_m">M</string>
+    <string name="unit_ft">FT</string>
+
+    <string name="err_dimension">ENTER A DIMENSION</string>
+    <string name="err_sides">3 SIDES MINIMUM</string>
+    <string name="err_stock">ENTER STOCK WIDTH</string>
+    <string name="err_ring_small">RING TOO SMALL FOR THIS STOCK</string>
+    <string name="err_corner">CORNER MUST BE 1 TO 179</string>
+
+    <string name="dialog_delete_title">DELETE SETUP</string>
+    <string name="dialog_delete_message">THIS SETUP WILL BE REMOVED FROM THE GAUGE</string>
+    <string name="dialog_delete_confirm">DELETE</string>
+    <string name="dialog_cancel">CANCEL</string>
+
+    <string name="step_minus">-</string>
+    <string name="step_plus">+</string>
+
+    <string name="cd_logo">Miter angle gauge emblem</string>
+    <string name="cd_home">Home</string>
+    <string name="cd_pause">Pause live measuring</string>
+    <string name="cd_back">Back</string>
+    <string name="cd_settings">Settings</string>
+    <string name="cd_delete">Delete setup</string>
+    <string name="cd_polygon">Polygon frame</string>
+    <string name="cd_ring">Segmented ring</string>
+    <string name="cd_corner">Wall corner</string>
+    <string name="cd_blade">Miter saw blade</string>
+    <string name="cd_gauge">Feeler gauge</string>
+
+    <string name="fmt_degrees">%1$s°</string>
+    <string name="fmt_value_unit">%1$s %2$s</string>
+    <string name="fmt_sided">%1$d-SIDED</string>
+    <string name="fmt_count">%1$d</string>
+    <string name="fmt_saved_title">%1$s · %2$s</string>
+    <string name="fmt_last_cut">%1$d %2$s · %3$s</string>
+    <string name="fmt_gap_source">%1$s · %2$s</string>
+    <string name="state_selected">selected</string>
+    <string name="state_not_selected">not selected</string>
+    <string name="state_on">on</string>
+    <string name="state_off">off</string>
+</resources>
